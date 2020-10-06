@@ -1,11 +1,16 @@
+------------------------------------------------------------------------
+
+title: Curriculum Vitae 2020/10/06 author: Thys Meintjes header-includes: \| \\usepackage{fancyhdr} \\pagestyle{fancy} \\fancyfoot\[CO,CE\]{Thys Meintjes CV} \\fancyfoot\[LE,RO\]{\\thepage} {#title-curriculum-vitae-20201006-author-thys-meintjes-header-includes--usepackagefancyhdr-pagestylefancy-fancyfootcocethys-meintjes-cv-fancyfootlerothepage}
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Personal Information
 ====================
 
   Key               Value
-  ----------------- --------------------
+  ----------------- ---------------------
   Occupation        Software Engineer
   Phone             +61 419 222 404
-  Email             sthysel\@gmail.com
+  Email             <sthysel@gmail.com>
   Home Language     Afrikaans
   Other Languages   English
   Citizenship       Australia
@@ -31,27 +36,17 @@ well as on-prem deployments.
 I have a Masters Degree in Electronic Engineering specializing in
 Biomedical engineering.
 
-Github Presense: https://github.com/sthysel,
-https://github.com/sthyselfreight
+Github Presense: <https://github.com/sthysel>,
+<https://github.com/sthyselfreight>
 
 Qualifications
 ==============
 
-  -----------------------------------------------------------------------
-  Qualification                       Institute
-  ----------------------------------- -----------------------------------
-  B.Eng (Electronic)                  University of Pretoria, South
-                                      Africa (1997)
-
-  M.Eng (Bio)                         University of Pretoria, South
-                                      Africa (2001), Thesis:
-                                      Investigation into the feasibility
-                                      of an active Electrode EEG Data
-                                      acquisition system
-
-  Other                               Sun - Sun Certified Programmer for
-                                      the Java 2 Platform 1.4
-  -----------------------------------------------------------------------
+  Qualification        Institute
+  -------------------- --------------------------------------------------------------------------------------------------------------------------------------------
+  B.Eng (Electronic)   University of Pretoria, South Africa (1997)
+  M.Eng (Bio)          University of Pretoria, South Africa (2001), Thesis: Investigation into the feasibility of an active Electrode EEG Data acquisition system
+  Other                Sun - Sun Certified Programmer for the Java 2 Platform 1.4
 
 Work Experience
 ===============
@@ -59,18 +54,18 @@ Work Experience
 Sept 2016 - Current BHP
 -----------------------
 
-https://www.bhp.com
+<https://www.bhp.com>
 
 ### Specialist Engineer Global Transformation Innovation Mine IIoT
 
 I have designed and implemented a modular computer vision and sensor
-fusion safety system. The system is developed in line with BHP's global
+fusion safety system. The system is developed in line with BHP\'s global
 technology and innovation push to make use of emerging technologies to
 enhance safety and reduce at-risk work.
 
 My primary roles are software architect, developer and systems
 integrator. The system is build around a Python machine learning stack,
-and makes use of Google's Coral TPU.
+and makes use of Google\'s Coral TPU.
 
 Video and other sensor feeds are fused into a real-time spatial
 awareness stream informing system state which in turns trigger warnings
@@ -85,7 +80,7 @@ compute device. Detection and system telemetry is communicated via
 
 Device fleet management is done using the Balena cloud service.
 
-### Specialist Engineer production automation systems.
+### Specialist Engineer production automation systems. {#specialist-engineer-production-automation-systems}
 
 Projects I work on include the SMART data logger project as well as the
 Magnet telemetry monitoring system.
@@ -112,29 +107,34 @@ Jan 2013 - Sept 2016 Centre for Comparative Genomics (GCC), Murdoch university
 ------------------------------------------------------------------------------
 
 Senior software developer at CCG, Murdoch University, Western Australia.
-(https://ccg.murdoch.edu.au/) I'm generally involved in the development
-and maintenance of software systems developed by CCG. I also work on
-various 'Big Data' or cloud projects that GCC is involved with. These
-are AWS hosted. I'm responsible for the development and maintenance of
-the Bio-Platforms Australia's metadata portal:
-https://downloads.bioplatforms.com/
+(<https://ccg.murdoch.edu.au/>) I\'m generally involved in the
+development and maintenance of software systems developed by CCG. I also
+work on various \'Big Data\' or cloud projects that GCC is involved
+with. These are AWS hosted. I'm responsible for the development and
+maintenance of the Bio-Platforms Australia\'s metadata portal:
+<https://downloads.bioplatforms.com/>
 
 Duties:
 
 -   Development and maintenance of in-house software systems
+
 -   Infrastructure development and maintenance
+
 -   General devops support work
+
 -   Development and maintenance of Bioplatforms Australia data and
     metadata systems
--   Administration and maintenance of CCG's OpenStack cluster
+
+-   Administration and maintenance of CCG\'s OpenStack cluster
+
 -   Linux system administration
 
-June 2012 -- Dec 2012: The University of Notre Dame Australia
+June 2012 -- Dec 2012: The University of Notre Dame Australia {#june-2012--dec-2012-the-university-of-notre-dame-australia}
 -------------------------------------------------------------
 
-http://www.nd.edu.au/fremantle
+<http://www.nd.edu.au/fremantle>
 
-Senior Software Engineer at the University of Notre Dame's IT
+Senior Software Engineer at the University of Notre Dame\'s IT
 department. My primary duties involve the maintenance of Java based
 in-house developed systems in use at the University, as well as the
 development of new bespoke systems as needed by the various departments
@@ -143,26 +143,34 @@ and schools.
 Duties:
 
 -   Resolving Issues with in-house developed Java, web-based systems
+
 -   Integration with third party systems in use at the University
+
 -   Expanding the feature set of existing systems
+
 -   Developing new bespoke systems, Java web based using Spring, J2EE
     and other web technologies
+
 -   Automation of build and provisioning systems
+
 -   The care and feeding of the virtualized build, test and production
     Linux servers
+
 -   Systems and software architecture
+
 -   Software development infrastructure development and maintenance
+
 -   General MSSQL management
 
-January 9, 2012 -- 5 June 2012 : SAI Global -- Cintellate -- Senior Support Analyst
+January 9, 2012 -- 5 June 2012 : SAI Global -- Cintellate -- Senior Support Analyst {#january-9-2012--5-june-2012--sai-global--cintellate--senior-support-analyst}
 -----------------------------------------------------------------------------------
 
-http://www.saiglobal.com/
+<http://www.saiglobal.com/>
 
 I was employed as Senior Support Analyst in the SAI Global compliance
 department. My primary duties included support and maintenance of the
-Cintellate product suite both on SAI Global's hosted infrastructure as
-well as client's private networks.
+Cintellate product suite both on SAI Global\'s hosted infrastructure as
+well as client\'s private networks.
 
 I ws responsible for second level support ranging from general
 operations to Cintellate product suite specific troubleshooting.
@@ -170,16 +178,18 @@ operations to Cintellate product suite specific troubleshooting.
 Duties:
 
 -   General MSSQL, Oracle and Tomcat management.
+
 -   Generation and maintenance of Cintellate support infrastructure.
+
 -   Level two Cintellate issue resolution.
 
 I left SAIG for Notre Dame as Notre Dame afforded me a software
 development role.
 
-October 2007 -- December 2011 : Thales Defence Systems -- Senior Software Engineer
+October 2007 -- December 2011 : Thales Defence Systems -- Senior Software Engineer {#october-2007--december-2011--thales-defence-systems--senior-software-engineer}
 ----------------------------------------------------------------------------------
 
-http://www.thalesgroup.com/
+<http://www.thalesgroup.com/>
 
 I was employed as senior software engineer at Thales Defence Systems,
 South Africa during this period. My duties included the design and
@@ -201,37 +211,42 @@ associated with the above mentioned battlefield information system.
 Duties :
 
 -   Design and implementation of intelligence gathering Man-machine
-    interface
-    (MMI) using Java SE, J2EE, C++ and other technologies
+    interface (MMI) using Java SE, J2EE, C++ and other technologies
+
 -   Implementation and design of the Surveillance Simulator visual
     training system. This is implemented in C++ using the Delta3D game
     engine, Google protocol buffers as well as the NetBeans rich client
     platform
+
 -   Infrastructure and system integration
+
 -   Linux system administration
+
 -   Interfacing with a wide variety of COTS sensors including Day/Night
     cameras, laser range finders and a man portable radar system. This
     includes the full software stack from driver to MMI.
+
 -   Hardening of the target platform to conform to Army intelligence
     security specifications.
+
 -   Build engineer responsible for managing continuous integration and
     automatic testing systems. These include Maven, Jenkins, Cobbler and
     Nexus.
 
-July - October 2007 : Sensepost -- Python Specialist
+July - October 2007 : Sensepost -- Python Specialist {#july---october-2007--sensepost--python-specialist}
 ----------------------------------------------------
 
-http://www.sensepost.com
+<http://www.sensepost.com>
 
 My duties included the back and front-end design and implementation of
 security audit applications. Technologies used include Python 2.4/5,
 JavaScript, specifically the ExtJS library, the Python TurboGears
 framework and others.
 
-October 2006 -- July 2007 : GeoAxon -- Software Development Manager
+October 2006 -- July 2007 : GeoAxon -- Software Development Manager {#october-2006--july-2007--geoaxon--software-development-manager}
 -------------------------------------------------------------------
 
-http://www.geoaxon.com
+<http://www.geoaxon.com>
 
 GeoAxon is a biomedical company focusing on tele-medicine. I identified
 the Java SWT based Eclipse Rich Client Platform as target development
@@ -255,10 +270,10 @@ Duties:
 -   Java software development
 -   Costing of business proposals
 
-July 2005 -- September 2006 : Quaint Technologies -- Engineer
+July 2005 -- September 2006 : Quaint Technologies -- Engineer {#july-2005--september-2006--quaint-technologies--engineer}
 -------------------------------------------------------------
 
-http://www.quaint.co.za
+<http://www.quaint.co.za>
 
 Systems were developed and deployed using Linux platforms (Ubuntu 5.10)
 leveraging a variety of Open Source Technologies. These included Python
@@ -270,10 +285,10 @@ PostgreSQL as database engine.
 Developed systems were interfaced with custom made hardware implemented
 on Xilinx Spartan 4 FPGA's using VHDL.
 
-November 1999 - June 2005 : NetSys International -- Software Development Manager
+November 1999 - June 2005 : NetSys International -- Software Development Manager {#november-1999---june-2005--netsys-international--software-development-manager}
 --------------------------------------------------------------------------------
 
-http://www.netsys.co.za
+<http://www.netsys.co.za>
 
 I worked on operational aviation and meteorological systems for various
 clients in Europe and Asia. My duties included on-site development and
@@ -330,10 +345,10 @@ relational database. Perl and Python were applied as rapid prototype
 languages. wx.Python and Python were extensively used in the creation of
 GUI front ends.
 
-September 1998 -- October 1999 : The Internet Solution -- eCommerce Developer
+September 1998 -- October 1999 : The Internet Solution -- eCommerce Developer {#september-1998--october-1999--the-internet-solution--ecommerce-developer}
 -----------------------------------------------------------------------------
 
-http://www.is.co.za
+<http://www.is.co.za>
 
 I was responsible for the development of Internet related electronic
 commerce products. This included the design and implementation of
@@ -343,7 +358,7 @@ technologies. These include ASP, Exchange LDAP and Microsoft SQL Server.
 Other technologies I used include JavaScript (ECMAScript), JSP, Perl and
 C based CGI scripts.
 
-April 1997 - August 1998 : University of Pretoria -- Network and PC Support Technician
+April 1997 - August 1998 : University of Pretoria -- Network and PC Support Technician {#april-1997---august-1998--university-of-pretoria--network-and-pc-support-technician}
 --------------------------------------------------------------------------------------
 
 I was contracted as IT specialist at the University of Pretoria
