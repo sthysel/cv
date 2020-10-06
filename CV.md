@@ -11,6 +11,8 @@ header-includes: |
 
 # Personal Information
 
+| Key             | Value                   |
+|-----------------|-------------------------|
 | Occupation      | Software Engineer       |
 | Phone           | +61 419 222 404         |
 | Email           | sthysel@gmail.com       |

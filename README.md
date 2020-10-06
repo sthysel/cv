@@ -6,9 +6,14 @@ title: Curriculum Vitae 2020/10/06 author: Thys Meintjes header-includes: \| \\u
 Personal Information
 ====================
 
-\| Occupation \| Software Engineer \| \| Phone \| +61 419 222 404 \| \|
-Email \| <sthysel@gmail.com> \| \| Home Language \| Afrikaans \| \|
-Other Languages \| English \| \| Citizenship \| Australia \|
+  Key               Value
+  ----------------- ---------------------
+  Occupation        Software Engineer
+  Phone             +61 419 222 404
+  Email             <sthysel@gmail.com>
+  Home Language     Afrikaans
+  Other Languages   English
+  Citizenship       Australia
 
 Overview
 ========
