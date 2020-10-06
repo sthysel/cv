@@ -1,10 +1,9 @@
 ﻿---
-title: Curriculum Vitae 2018/11/01
+title: Curriculum Vitae 2020/10/06
 author: Thys Meintjes
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \fancyhead[CO,CE]{Thys Meintjes CV}
     \fancyfoot[CO,CE]{Thys Meintjes CV}
     \fancyfoot[LE,RO]{\thepage}
 ---
@@ -15,8 +14,6 @@ header-includes: |
 | Key             | Value                   |
 |-----------------|-------------------------|
 | Occupation      | Software Engineer       |
-| Date of Birth   | 07/26/1973              |
-| Place of Birth  | Springbok, South Africa |
 | Phone           | +61 419 222 404         |
 | Email           | sthysel@gmail.com       |
 | Home Language   | Afrikaans               |
@@ -26,18 +23,18 @@ header-includes: |
 
 # Overview
 
-I am a software engineer with 19 years of software development experience in
-weather, aviation, national intelligence, healthcare, defence and mining
+I am a software engineer with 20+ years of software architecture and development
+experience in the weather, aviation, intelligence, healthcare, defence and mining
 industries. I have led development teams and managed projects throughout the
 complete software development life cycle.
 
-
-I am proficient in a variety of technologies, languages and software engineering
-systems. I have extensive experience designing and implementing the full
-software stack from driver to HMI level for a wide variety of sensors and
-systems. I have solved several data fusion and data presentation problems. I
-have experience in software integration, systems provisioning, software
-configuration and build management.
+I am proficient in a variety of technologies, languages, methodologies and
+software engineering systems. I have extensive experience designing and
+implementing the full software stack from driver to HMI level for a wide variety
+of sensors and systems. I have worked on various data fusion and data
+presentation problems. I have devops experience across software integration,
+systems provisioning, software configuration, and build management on various
+cloud platforms like AWS and OpenStack as well as on-prem deployments.
 
 
 I have a Masters Degree in Electronic Engineering specializing in Biomedical
@@ -53,28 +50,60 @@ Github Presense: https://github.com/sthysel, https://github.com/sthyselfreight
 | B.Eng (Electronic) | University of Pretoria, South Africa (1997)                                                                                                |
 | M.Eng (Bio)        | University of Pretoria, South Africa (2001), Thesis: Investigation into the feasibility of an active Electrode EEG Data acquisition system |
 | Other              | Sun - Sun Certified Programmer for the Java 2 Platform 1.4                                                                                 |
-|                    |                                                                                                                                            |
-|                    |                                                                                                                                            |
+
+
+
 # Work Experience
 
 ## Sept 2016 - Current BHP
 
 https://www.bhp.com
 
+### Specialist Engineer Global Transformation Innovation Mine IIoT
 
-Specialist Technical Engineer production automation systems. Projects I work on
-include the SMART data logger project as well as the Magnet monitoring system.
+I have designed and implemented a modular computer vision and sensor fusion
+safety system. The system is developed in line with BHP's global technology and
+innovation push to make use of emerging technologies to enhance safety and
+reduce at-risk work.
 
-Both SMART and Magnet work involves gathering data of pit and pit related
-systems and services and feeding this into data aggregating service. These
-include Nifi, Kafka, MQTT and OSI Pi.
+My primary roles are software architect, developer and systems integrator. The
+system is build around a Python machine learning stack, and makes use of
+Google's Coral TPU.
 
-Duties:
+Video and other sensor feeds are fused into a real-time spatial awareness stream
+informing system state which in turns trigger warnings and alerts to machine
+operators and nearby personnel. Audio and visual alarms and warnings include
+synthesized context specific voice alerts and industry standard RAGA strobe
+light actuation via a CAN bus.
 
-* Development and maintenance of in-house software systems, primarily Python based
-* Infrastructure development and maintenance
-* General devops support work
-* Linux system administration
+The system is composed of various independent sub-components all communication
+via a common local MQTT message queue running on a edge compute device.
+Detection and system telemetry is communicated via 4G/LTE modem to a AWS stack
+used for analysis and visualization.
+
+Device fleet management is done using the Balena cloud service.
+
+### Specialist Engineer production automation systems. 
+
+Projects I work on include the SMART data logger project as well as the Magnet
+telemetry monitoring system.
+
+I worked in the Production Automation Systems team at BHP as specialist
+technical engineer. Most activities during this period revolved around data
+aggregation and sensor fusing systems that aggregated various data streams into
+a single common source of truth.
+
+My primary responsibilities revolved around the software architecture,
+implementation and deployment of device status and telemetry data capturing
+software services. These services were deployed close to the interrogated
+devices on various physical and virtual platforms.
+
+I worked on various projects during this time, most notably the SMART data
+logger project, a precursor to the Dahling data logger project which gathers
+data of SME using CAN and other protocols. And MAGNET, a status aggregating
+system focusing predominantly on in-pit telemetry systems.
+
+Enabling technologies were Linux, Python, Kafka and MQTT.
 
 
 ## Jan 2013 - Sept 2016 Centre for Comparative Genomics (GCC), Murdoch university
