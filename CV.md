@@ -1,5 +1,5 @@
 ﻿---
-title: Curriculum Vitae 2020/10/06
+title: Curriculum Vitae 2020/10/07
 author: Thys Meintjes
 header-includes: |
     \usepackage{fancyhdr}
@@ -32,16 +32,16 @@ I am proficient in a variety of technologies, languages, methodologies and
 software engineering systems. I have extensive experience designing and
 implementing the full software stack from driver to HMI level for a wide variety
 of sensors and systems. I have worked on various data fusion and data
-presentation problems. I have devops experience across software integration,
-systems provisioning, software configuration, and build management on various
-cloud platforms like AWS and OpenStack as well as on-prem deployments.
+presentation systems. 
 
+I have a fair amount of devops experience across software integration, systems
+provisioning, software configuration and build management systems. These were
+implemented on-premise as well as various cloud platforms like AWS and OpenStack.
 
 I have a Masters Degree in Electronic Engineering specializing in Biomedical
 engineering.
 
-
-Github Presense: https://github.com/sthysel, https://github.com/sthyselfreight
+Github: https://github.com/sthysel, https://github.com/sthyselfreight
 
 # Qualifications
 
@@ -109,11 +109,13 @@ Enabling technologies were Linux, Python, Kafka and MQTT.
 ## Jan 2013 - Sept 2016 Centre for Comparative Genomics (GCC), Murdoch university
 
 Senior software developer at CCG, Murdoch University, Western Australia.
-(https://ccg.murdoch.edu.au/) I'm generally involved in the development and
-maintenance of software systems developed by CCG. I also work on various 'Big
-Data' or cloud projects that GCC is involved with. These are AWS hosted. I’m
-responsible for the development and maintenance of the Bio-Platforms Australia's
-metadata portal: https://downloads.bioplatforms.com/
+(https://ccg.murdoch.edu.au/) 
+
+I'm generally involved in the development and maintenance of software systems
+developed by CCG. I also work on various 'Big Data' or cloud projects that GCC
+is involved with. These are AWS hosted. I’m responsible for the development and
+maintenance of the Bio-Platforms Australia's metadata portal:
+https://downloads.bioplatforms.com/
 
 
 Duties:
