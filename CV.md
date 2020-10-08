@@ -11,14 +11,15 @@ header-includes: |
 
 # Personal Information
 
-| Key             | Value                   |
-|-----------------|-------------------------|
-| Occupation      | Software Engineer       |
-| Phone           | +61 419 222 404         |
-| Email           | sthysel@gmail.com       |
-| Home Language   | Afrikaans               |
-| Other Languages | English                 |
-| Citizenship     | Australia               |
+| Key             | Value             |
+|-----------------|-------------------|
+| Name            | Thys Meintjes     |
+| Occupation      | Software Engineer |
+| Phone           | +61 419 222 404   |
+| Email           | sthysel@gmail.com |
+| Home Language   | Afrikaans         |
+| Other Languages | English           |
+| Citizenship     | Australia         |
 
 
 # Overview
