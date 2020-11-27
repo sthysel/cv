@@ -21,6 +21,7 @@ header-includes: |
 | Other Languages | English           |
 | Citizenship     | Australian        |
 
+This CV available online https://github.com/sthysel/cv, and may be more current.
 
 # Overview
 
