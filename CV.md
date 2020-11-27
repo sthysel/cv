@@ -1,5 +1,5 @@
 ﻿---
-title: Curriculum Vitae 2020/10/07
+title: Curriculum Vitae 2020/11/27
 author: Thys Meintjes
 header-includes: |
     \usepackage{fancyhdr}
@@ -19,30 +19,40 @@ header-includes: |
 | Email           | sthysel@gmail.com |
 | Home Language   | Afrikaans         |
 | Other Languages | English           |
-| Citizenship     | Australia         |
+| Citizenship     | Australian        |
 
 
 # Overview
 
 I am a software engineer with 20+ years of software architecture and development
-experience in the weather, aviation, intelligence, healthcare, defence and mining
-industries. I have led development teams and managed projects throughout the
-complete software development life cycle.
+experience in the weather, aviation, national intelligence, healthcare, defense
+and mining industries. I have led development teams and managed projects
+throughout the complete software development life cycle using Agile and SCRUM
+methodologies.
 
-I am proficient in a variety of technologies, languages, methodologies and
-software engineering systems. I have extensive experience designing and
-implementing the full software stack from driver to HMI level for a wide variety
-of sensors and systems. I have worked on various data fusion and data
-presentation systems. 
+I am proficient in a variety of technologies, languages and software engineering
+frameworks. I have extensive experience designing and implementing the full
+software stack from low-level drivers, leaning on my background as electronic
+engineer, to human-machine interfaces for a wide variety of systems. 
 
-I have a fair amount of devops experience across software integration, systems
+I have worked on various data fusion and ETL solutions. And consider myself a
+integration and systems specialist, with a strong preference for Python, Linux,
+containerization, and machine learning implementing ETL and data fusion
+pipelines.
+
+I have strong devops experience using a variety of continuous integration, systems
 provisioning, software configuration and build management systems. These were
 implemented on-premise as well as various cloud platforms like AWS and OpenStack.
 
-I have a Masters Degree in Electronic Engineering specializing in Biomedical
-engineering.
+I have developed cloud native applications and solution stacks making use of AWS
+and lesser degree GCP infrastructure.
 
-Github: https://github.com/sthysel, https://github.com/sthyselfreight
+I have a Masters Degree in Electronic Engineering, but have been a professional
+software engineer for most all of my career.
+
+| Generic Portfolio   | https://github.com/sthysel        |
+| Container Portfolio | https://github.com/sthyselfreight |
+
 
 # Qualifications
 
@@ -60,16 +70,19 @@ Github: https://github.com/sthysel, https://github.com/sthyselfreight
 
 https://www.bhp.com
 
-### Specialist Engineer Global Transformation Innovation Mine IIoT
+I am currently employed at BHP as Principal Software Engineer at the Innovation
+Center.
 
-I have designed and implemented a modular computer vision and sensor fusion
-safety system. The system is developed in line with BHP's global technology and
-innovation push to make use of emerging technologies to enhance safety and
-reduce at-risk work.
+### Principal Software Engineer Innovation Center
 
-My primary roles are software architect, developer and systems integrator. The
-system is build around a Python machine learning stack, and makes use of
-Google's Coral TPU.
+My primary roles are software architect, programmer and systems integrator. I
+focused on systems build around machine learning stacks making use of GPU and
+Google's Coral TPU. Solutions are implemented in Python, hosted on Linux,
+containerized and managed using the balena.io platform.
+
+We build a modular computer vision and sensor fusion framework and implemented a
+personnel safety system on top of that. 
+
 
 Video and other sensor feeds are fused into a real-time spatial awareness stream
 informing system state which in turns trigger warnings and alerts to machine
@@ -80,23 +93,30 @@ light actuation via a CAN bus.
 The system is composed of various independent sub-components all communication
 via a common local MQTT message queue running on a edge compute device.
 Detection and system telemetry is communicated via 4G/LTE modem to a AWS stack
-used for analysis and visualization.
+used for analysis and visualization. Device fleet management is done using the
+Balena cloud service.
 
-Device fleet management is done using the Balena cloud service.
+The system was developed in line with BHP's global technology and innovation
+push to make use of emerging technologies to enhance safety and reduce at-risk
+work.
+
+I worked on number of other ML and computer vision solutions focusing on
+identifying and reporting production and ore quality issues.
 
 ### Specialist Engineer production automation systems. 
 
-Projects I work on include the SMART data logger project as well as the Magnet
+Projects I worked on include the SMART data logger project as well as the Magnet
 telemetry monitoring system.
 
 I worked in the Production Automation Systems team at BHP as specialist
 technical engineer. Most activities during this period revolved around data
 aggregation and sensor fusing systems that aggregated various data streams into
-a single common source of truth.
+a single common source of truth via a extensive set of bespoke ETL components I
+developed.
 
 My primary responsibilities revolved around the software architecture,
 implementation and deployment of device status and telemetry data capturing
-software services. These services were deployed close to the interrogated
+ETL software services. These services were deployed close to the interrogated
 devices on various physical and virtual platforms.
 
 I worked on various projects during this time, most notably the SMART data
@@ -122,12 +142,11 @@ https://downloads.bioplatforms.com/
 Duties:
 
 * Development and maintenance of in-house software systems
-* Infrastructure development and maintenance
+* AWS Infrastructure development and maintenance
 * General devops support work
 * Development and maintenance of Bioplatforms Australia data and metadata systems
 * Administration and maintenance of CCG's OpenStack cluster
-* Linux system administration
-
+* Linux and AWS system administration
 
 
 
