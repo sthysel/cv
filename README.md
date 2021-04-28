@@ -1,27 +1,25 @@
-Personal Information
-====================
+# Personal Information
 
-| Key             | Value             |
-|-----------------|-------------------|
-| Name            | Thys Meintjes     |
-| Occupation      | Software Engineer |
-| Phone           | +61 419 222 404   |
-| Email           | sthysel@gmail.com |
-| Home Language   | Afrikaans         |
-| Other Languages | English           |
-| Citizenship     | Australian        |
+| Key             | Value                      |
+|-----------------|----------------------------|
+| Name            | Thys Meintjes              |
+| Occupation      | Software and data Engineer |
+| Phone           | +61 419 222 404            |
+| Email           | sthysel@gmail.com          |
+| Home Language   | Afrikaans                  |
+| Other Languages | English                    |
+| Citizenship     | Australian                 |
 
 This CV available online https://github.com/sthysel/cv, and may be more
 current.
 
-Overview
-========
+# Overview
 
 I am a software engineer with 20+ years of software architecture and
 development experience in the weather, aviation, national intelligence,
-healthcare, defense and mining industries. I have led development teams
-and managed projects throughout the complete software development life
-cycle using Agile and SCRUM methodologies.
+healthcare, defense and mining industries. I have led development teams,
+managed and delivered projects throughout the complete software
+development life cycle.
 
 I am proficient in a variety of technologies, languages and software
 engineering frameworks. I have extensive experience designing and
@@ -30,28 +28,23 @@ my background as electronic engineer, to human-machine interfaces for a
 wide variety of systems.
 
 I have worked on various data fusion and ETL solutions. And consider
-myself a integration and systems specialist, with a strong preference
-for Python, Linux, containerization, and machine learning implementing
-ETL and data fusion pipelines.
+myself a integration and systems specialist, with strong Python, Linux,
+containerization, and data fusion pipe-lining skills.
 
-I have strong devops experience using a variety of continuous
-integration, systems provisioning, software configuration and build
-management systems. These were implemented on-premise as well as various
-cloud platforms like AWS and OpenStack.
+I have DevOps experience using a variety of continuous integration,
+systems provisioning, software configuration and build management
+systems. These were implemented on-premise as well as various cloud
+platforms particularly AWS and OpenStack.
 
 I have developed cloud native applications and solution stacks making
-use of AWS and lesser degree GCP infrastructure.
-
-I have a Masters Degree in Electronic Engineering, but have been a
-professional software engineer for most all of my career.
+use of AWS and OpenStack infrastructure.
 
 | Portfolio           | Link                              |
 |---------------------|-----------------------------------|
 | Generic Portfolio   | https://github.com/sthysel        |
 | Container Portfolio | https://github.com/sthyselfreight |
 
-Qualifications
-==============
+# Qualifications
 
 | Qualification      | Institute                                                                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -59,16 +52,20 @@ Qualifications
 | M.Eng (Bio)        | University of Pretoria, South Africa (2001), Thesis: Investigation into the feasibility of an active Electrode EEG Data acquisition system |
 | Other              | Sun - Sun Certified Programmer for the Java 2 Platform 1.4                                                                                 |
 
-Work Experience
-===============
+# Work Experience
 
-Sept 2016 - Current BHP
------------------------
+## Sept 2016 - Current BHP
 
 https://www.bhp.com
 
-I am currently employed at BHP as Principal Software Engineer at the
-Innovation Center.
+### Principal Data Engineer, Digital Facory WAIO
+
+I am currently employed at BHP as Principal Data Engineer in the WAIO
+Digital Factory.
+
+My primary role is building out AWS infrastructure for a BHP bespoke
+machine learning and forecasting system, focusing on data integration.
+Infrastructure is managed using terraform tooling and modules.
 
 ### Principal Software Engineer Innovation Center
 
@@ -124,8 +121,7 @@ systems.
 
 Enabling technologies were Linux, Python, Kafka and MQTT.
 
-Jan 2013 - Sept 2016 Centre for Comparative Genomics (GCC), Murdoch university
-------------------------------------------------------------------------------
+## Jan 2013 - Sept 2016 Centre for Comparative Genomics (GCC), Murdoch university
 
 Senior software developer at CCG, Murdoch University, Western Australia.
 (https://ccg.murdoch.edu.au/)
@@ -146,8 +142,7 @@ Duties:
 -   Administration and maintenance of CCG’s OpenStack cluster
 -   Linux and AWS system administration
 
-June 2012 – Dec 2012: The University of Notre Dame Australia
-------------------------------------------------------------
+## June 2012 – Dec 2012: The University of Notre Dame Australia
 
 http://www.nd.edu.au/fremantle
 
@@ -171,8 +166,7 @@ Duties:
 -   Software development infrastructure development and maintenance
 -   General MSSQL management
 
-January 9, 2012 – 5 June 2012 : SAI Global – Cintellate – Senior Support Analyst
---------------------------------------------------------------------------------
+## January 9, 2012 – 5 June 2012 : SAI Global – Cintellate – Senior Support Analyst
 
 http://www.saiglobal.com/
 
@@ -193,8 +187,7 @@ Duties:
 I left SAIG for Notre Dame as Notre Dame afforded me a software
 development role.
 
-October 2007 – December 2011 : Thales Defence Systems – Senior Software Engineer
---------------------------------------------------------------------------------
+## October 2007 – December 2011 : Thales Defence Systems – Senior Software Engineer
 
 http://www.thalesgroup.com/
 
@@ -219,7 +212,7 @@ Duties :
 
 -   Design and implementation of intelligence gathering Man-machine
     interface
-    1.  using Java SE, J2EE, C++ and other technologies
+    2001. using Java SE, J2EE, C++ and other technologies
 -   Implementation and design of the Surveillance Simulator visual
     training system. This is implemented in C++ using the Delta3D game
     engine, Google protocol buffers as well as the NetBeans rich client
@@ -235,8 +228,7 @@ Duties :
     automatic testing systems. These include Maven, Jenkins, Cobbler and
     Nexus.
 
-July - October 2007 : Sensepost – Python Specialist
----------------------------------------------------
+## July - October 2007 : Sensepost – Python Specialist
 
 http://www.sensepost.com
 
@@ -245,8 +237,7 @@ security audit applications. Technologies used include Python 2.4/5,
 JavaScript, specifically the ExtJS library, the Python TurboGears
 framework and others.
 
-October 2006 – July 2007 : GeoAxon – Software Development Manager
------------------------------------------------------------------
+## October 2006 – July 2007 : GeoAxon – Software Development Manager
 
 http://www.geoaxon.com
 
@@ -272,8 +263,7 @@ Duties:
 -   Java software development
 -   Costing of business proposals
 
-July 2005 – September 2006 : Quaint Technologies – Engineer
------------------------------------------------------------
+## July 2005 – September 2006 : Quaint Technologies – Engineer
 
 http://www.quaint.co.za
 
@@ -287,8 +277,7 @@ PostgreSQL as database engine.
 Developed systems were interfaced with custom made hardware implemented
 on Xilinx Spartan 4 FPGA’s using VHDL.
 
-November 1999 - June 2005 : NetSys International – Software Development Manager
--------------------------------------------------------------------------------
+## November 1999 - June 2005 : NetSys International – Software Development Manager
 
 http://www.netsys.co.za
 
@@ -347,8 +336,7 @@ relational database. Perl and Python were applied as rapid prototype
 languages. wx.Python and Python were extensively used in the creation of
 GUI front ends.
 
-September 1998 – October 1999 : The Internet Solution – eCommerce Developer
----------------------------------------------------------------------------
+## September 1998 – October 1999 : The Internet Solution – eCommerce Developer
 
 http://www.is.co.za
 
@@ -360,8 +348,7 @@ technologies. These include ASP, Exchange LDAP and Microsoft SQL Server.
 Other technologies I used include JavaScript (ECMAScript), JSP, Perl and
 C based CGI scripts.
 
-April 1997 - August 1998 : University of Pretoria – Network and PC Support Technician
--------------------------------------------------------------------------------------
+## April 1997 - August 1998 : University of Pretoria – Network and PC Support Technician
 
 I was contracted as IT specialist at the University of Pretoria
 Department of Information Technology. My responsibilities included the
