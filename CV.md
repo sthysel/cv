@@ -1,5 +1,5 @@
 ﻿---
-title: Curriculum Vitae 2020/11/27
+title: Curriculum Vitae 2021/04/28
 author: Thys Meintjes
 header-includes: |
     \usepackage{fancyhdr}
@@ -11,15 +11,15 @@ header-includes: |
 
 # Personal Information
 
-| Key             | Value             |
-|-----------------|-------------------|
-| Name            | Thys Meintjes     |
-| Occupation      | Software Engineer |
-| Phone           | +61 419 222 404   |
-| Email           | sthysel@gmail.com |
-| Home Language   | Afrikaans         |
-| Other Languages | English           |
-| Citizenship     | Australian        |
+| Key             | Value                      |
+|-----------------|----------------------------|
+| Name            | Thys Meintjes              |
+| Occupation      | Software and data Engineer |
+| Phone           | +61 419 222 404            |
+| Email           | sthysel@gmail.com          |
+| Home Language   | Afrikaans                  |
+| Other Languages | English                    |
+| Citizenship     | Australian                 |
 
 This CV available online https://github.com/sthysel/cv, and may be more current.
 
@@ -27,9 +27,8 @@ This CV available online https://github.com/sthysel/cv, and may be more current.
 
 I am a software engineer with 20+ years of software architecture and development
 experience in the weather, aviation, national intelligence, healthcare, defense
-and mining industries. I have led development teams and managed projects
-throughout the complete software development life cycle using Agile and SCRUM
-methodologies.
+and mining industries. I have led development teams, managed and delivered projects
+throughout the complete software development life cycle.
 
 I am proficient in a variety of technologies, languages and software engineering
 frameworks. I have extensive experience designing and implementing the full
@@ -37,19 +36,17 @@ software stack from low-level drivers, leaning on my background as electronic
 engineer, to human-machine interfaces for a wide variety of systems. 
 
 I have worked on various data fusion and ETL solutions. And consider myself a
-integration and systems specialist, with a strong preference for Python, Linux,
-containerization, and machine learning implementing ETL and data fusion
-pipelines.
+integration and systems specialist, with strong Python, Linux, containerization,
+and data fusion pipe-lining skills.
 
-I have strong devops experience using a variety of continuous integration, systems
+I have DevOps experience using a variety of continuous integration, systems
 provisioning, software configuration and build management systems. These were
-implemented on-premise as well as various cloud platforms like AWS and OpenStack.
+implemented on-premise as well as various cloud platforms particularly AWS and
+OpenStack.
 
 I have developed cloud native applications and solution stacks making use of AWS
-and lesser degree GCP infrastructure.
+and OpenStack infrastructure.
 
-I have a Masters Degree in Electronic Engineering, but have been a professional
-software engineer for most all of my career.
 
 | Portfolio           | Link                              |
 |---------------------|-----------------------------------|
@@ -73,8 +70,15 @@ software engineer for most all of my career.
 
 https://www.bhp.com
 
-I am currently employed at BHP as Principal Software Engineer at the Innovation
-Center.
+
+### Principal Data Engineer, Digital Facory WAIO
+
+I am currently employed at BHP as Principal Data Engineer in the WAIO Digital
+Factory.
+
+My primary role is building out AWS infrastructure for a BHP bespoke machine
+learning and forecasting system, focusing on data integration. Infrastructure is
+managed using terraform tooling and modules.
 
 ### Principal Software Engineer Innovation Center
 
@@ -85,7 +89,6 @@ containerized and managed using the balena.io platform.
 
 We build a modular computer vision and sensor fusion framework and implemented a
 personnel safety system on top of that. 
-
 
 Video and other sensor feeds are fused into a real-time spatial awareness stream
 informing system state which in turns trigger warnings and alerts to machine
