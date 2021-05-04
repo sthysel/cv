@@ -26,7 +26,7 @@ This CV available online https://github.com/sthysel/cv, and may be more current.
 # Overview
 
 I am a software engineer with 20+ years of software architecture and development
-experience. These include the weather, aviation, national intelligence,
+experience. I have worked in the weather aviation, national intelligence,
 healthcare, defense and mining industries. I have led development teams and
 managed and delivered projects throughout the complete software development
 life-cycle.
@@ -38,7 +38,7 @@ variety of systems.
 
 I have worked on various data fusion and ETL solutions. I consider myself a
 integration and systems specialist, with strong Python, Linux, containerisation,
-and data fusion pipe-lining skills.
+and data fusion pipe-line skills.
 
 I have DevOps experience using a variety of continuous integration, systems
 provisioning, software configuration and build management systems. These were
@@ -47,6 +47,7 @@ OpenStack.
 
 I have developed cloud native applications and solution stacks making use of AWS
 and OpenStack infrastructure.
+
 
 
 | Portfolio           | Link                              |
@@ -74,8 +75,7 @@ https://www.bhp.com
 
 ### Principal Data Engineer, Digital Facory WAIO
 
-I am currently employed at BHP as Principal Data Engineer in the WAIO Digital
-Factory.
+I am currently employed at BHP as Data Engineer in the WAIO Digital Factory.
 
 My primary role is building out AWS infrastructure for a BHP bespoke machine
 learning and forecasting system, focusing on data integration. Infrastructure is
