@@ -26,17 +26,18 @@ This CV available online https://github.com/sthysel/cv, and may be more current.
 # Overview
 
 I am a software engineer with 20+ years of software architecture and development
-experience in the weather, aviation, national intelligence, healthcare, defense
-and mining industries. I have led development teams, managed and delivered projects
-throughout the complete software development life cycle.
+experience. These include the weather, aviation, national intelligence,
+healthcare, defense and mining industries. I have led development teams and
+managed and delivered projects throughout the complete software development
+life-cycle.
 
 I am proficient in a variety of technologies, languages and software engineering
 frameworks. I have extensive experience designing and implementing the full
-software stack from low-level drivers, leaning on my background as electronic
-engineer, to human-machine interfaces for a wide variety of systems. 
+software stack from low-level drivers, to bespoke user interfaces for a wide
+variety of systems.
 
-I have worked on various data fusion and ETL solutions. And consider myself a
-integration and systems specialist, with strong Python, Linux, containerization,
+I have worked on various data fusion and ETL solutions. I consider myself a
+integration and systems specialist, with strong Python, Linux, containerisation,
 and data fusion pipe-lining skills.
 
 I have DevOps experience using a variety of continuous integration, systems
