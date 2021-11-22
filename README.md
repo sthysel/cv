@@ -1,42 +1,51 @@
 # Personal Information
 
-| Key             | Value                      |
-|-----------------|----------------------------|
-| Name            | Thys Meintjes              |
-| Occupation      | Software and data Engineer |
-| Phone           | +61 419 222 404            |
-| Email           | sthysel@gmail.com          |
-| Home Language   | Afrikaans                  |
-| Other Languages | English                    |
-| Citizenship     | Australian                 |
+| Key             | Value                                      |
+|-----------------|--------------------------------------------|
+| Name            | Thys Meintjes                              |
+| Occupation      | Software Craftsman, Engineer and Architect |
+| Phone           | +61 419 222 404                            |
+| Email           | sthysel@gmail.com                          |
+| Home Language   | Afrikaans                                  |
+| Other Languages | English                                    |
+| Citizenship     | Australian                                 |
 
 This CV available online https://github.com/sthysel/cv, and may be more
-current.
+current than this document.
 
 # Overview
 
-I am a software engineer with 20+ years of software architecture and
-development experience. I have worked in the weather aviation, national
-intelligence, healthcare, defense and mining industries. I have led
-development teams and managed and delivered projects throughout the
-complete software development life-cycle.
+I am a Software Craftsman with 20+ years of software architecture,
+engineering and development experience. I have worked in the weather
+aviation, national intelligence, healthcare, defense and mining
+industries. I have led development teams and managed and delivered
+projects at every level of the software development life-cycle: from
+conceptual design to delivery and support. I have worked in Agile teams
+as scrum master, tech lead, architect and developer.
 
-I am proficient in a variety of technologies, languages and software
-engineering frameworks. I have extensive experience designing and
-implementing the full software stack from low-level drivers, to bespoke
-user interfaces for a wide variety of systems.
+I have worked on numerous sensor data fusion and solutions. I consider
+myself a integration and systems specialist, with strong
 
-I have worked on various data fusion and ETL solutions. I consider
-myself a integration and systems specialist, with strong Python, Linux,
-containerisation, and data fusion pipe-line skills.
+-   Python,
+-   Linux,
+-   Machine Learning,
+-   Containerisation,
+-   IOT,
+-   DevOps,
+-   MLOps, and
+-   Sensor data fusion pipe-line skills.
 
-I have DevOps experience using a variety of continuous integration,
-systems provisioning, software configuration and build management
-systems. These were implemented on-premise as well as various cloud
-platforms particularly AWS and OpenStack.
+I have DevOps and MLOps experience using a variety of continuous
+integration, systems provisioning, software configuration and build
+management systems. These were implemented on-premise as well as various
+cloud platforms particularly AWS.
 
 I have developed cloud native applications and solution stacks making
-use of AWS and OpenStack infrastructure.
+use of AWS and OpenStack infrastructure. I’ve used Ansible and Terraform
+to define infrastructure as code using modern GitOps principles.
+
+I have a degree in Electronic Engineering and a Masters degree in Bio
+Engineering.
 
 | Portfolio           | Link                              |
 |---------------------|-----------------------------------|
@@ -55,21 +64,34 @@ use of AWS and OpenStack infrastructure.
 
 ## Sept 2016 - Current BHP
 
+I am currently employed at BHP as Principal Software Engineer
+specialising in Computer Vision Machine Learning and MLOps.
+
+I have hold various roles at BHP in the last five years, listed below.
+
 https://www.bhp.com
+
+### Principal Computer Vision machine learning
+
+I trained computer vision models using Tensorflow and Keras to classify
+live CCTV video streams to react on fault conditions in various
+applications. I also developed the inference and heuristic code around
+the model allowing the solution to actuate the various PLC and warning
+systems that reacts on the fault conditions. I’m currently developing
+the machine learning operations pipeline managing the process of
+training data capture, versioning, model training and model deployment
+to production, using existing BHP Azure iot-edge infrastructure.
 
 ### Principal Data Engineer, Digital Facory WAIO
 
-I am currently employed at BHP as Data Engineer in the WAIO Digital
-Factory.
-
 My primary role is building out AWS infrastructure for a BHP bespoke
 machine learning and forecasting system, focusing on data integration.
-Infrastructure is managed using terraform tooling and modules.
+Infrastructure is managed using Terraform tooling and modules.
 
 ### Principal Software Engineer Innovation Center
 
 My primary roles are software architect, programmer and systems
-integrator. I focused on systems build around machine learning stacks
+integrator. I focused on systems built around machine learning stacks
 making use of GPU and Google’s Coral TPU. Solutions are implemented in
 Python, hosted on Linux, containerized and managed using the balena.io
 platform.
