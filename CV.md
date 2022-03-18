@@ -14,7 +14,7 @@ header-includes: |
 | Key             | Value                      |
 |-----------------|----------------------------|
 | Name            | Thys Meintjes              |
-| Occupation      | Software Craftsman, Engineer and Architect |
+| Occupation      | Software Engineer and Architect |
 | Phone           | +61 419 222 404            |
 | Email           | sthysel@gmail.com          |
 | Home Language   | Afrikaans                  |
@@ -26,13 +26,12 @@ than this document.
 
 # Overview
 
-I am a Software Craftsman with 20+ years of software architecture,
-engineering and development experience. I have worked in the weather aviation,
-national intelligence, healthcare, defense and mining industries. I have led
-development teams and managed and delivered projects at every level of the
-software development life-cycle: from conceptual design to delivery and
-support. I have worked in Agile teams as scrum master, tech lead, architect and
-developer.
+I am a software engineer with 20+ years of software architecture and
+engineering experience. I have worked in the weather aviation, national
+intelligence, healthcare, defense and mining industries. I have led development
+teams and managed and delivered projects at every level of the software
+development life-cycle: from conceptual design to delivery and support. I have
+worked in Agile teams as scrum master, tech lead, architect and developer.
 
 I have worked on numerous sensor data fusion and solutions. I consider myself a
 integration and systems specialist, with strong 
