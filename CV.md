@@ -27,8 +27,8 @@ tags:
 | Languages   | English, Afrikaans                                                                    |
 | Citizenship | Australian                                                                            |
 
-This CV is available online on github https://github.com/sthysel/cv, and may be
-more current than this document.
+This CV is available online on [github](https://github.com/sthysel/cv)
+(https://github.com/sthysel/cv), and may be more current than this document.
 
 # Overview
 
@@ -37,9 +37,10 @@ engineering experience. I have worked in the weather aviation, national
 intelligence, healthcare, defense and mining industries. I have led development
 teams and managed and delivered projects at every level of the software
 development life-cycle: from conceptual design to delivery and support. I have
-worked in Agile teams as scrum master, tech lead, architect and developer.
+worked in Agile teams as scrum master, tech lead, architect and software
+engineer.
 
-I have worked on numerous sensor data fusion and solutions. I consider myself a
+I have worked on several sensor data fusion solutions. I consider myself a
 integration and systems specialist, with strong 
 
 * Python
@@ -71,10 +72,8 @@ I have a degree in Electronic Engineering and a Masters degree in Bio Engineerin
 
 | Qualification      | Institute                                                                                                                                  |
 | ---                | ---                                                                                                                                        |
-| B.Eng (Electronic) | University of Pretoria, South Africa (1997)                                                                                                |
 | M.Eng (Bio)        | University of Pretoria, South Africa (2001), Thesis: Investigation into the feasibility of an active Electrode EEG Data acquisition system |
-| Other              | Sun - Sun Certified Programmer for the Java 2 Platform 1.4                                                                                 |
-
+| B.Eng (Electronic) | University of Pretoria, South Africa (1997)                                                                                                |
 
 
 # Work Experience
