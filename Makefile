@@ -1,11 +1,12 @@
 NAME:=CVThysMeintjes
 
 pdf:  ## Make pdf
-	pandoc -s -f markdown-auto_identifiers \
-  CV.md \
-	-o $(NAME).pdf \
-	--template="style/template.tex" \
-	--pdf-engine=xelatex
+	pandoc \
+	--standalone \
+	--from markdown-auto_identifiers CV.md \
+	--template="./templates/vogel.latex" \
+	--pdf-engine=xelatex \
+	-o $(NAME).pdf
 
 github:  ## Make github README.md
 	pandoc --write gfm CV.md --output README.md

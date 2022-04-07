@@ -1,17 +1,16 @@
 # Personal Information
 
-| Key             | Value                           |
-|-----------------|---------------------------------|
-| Name            | Thys Meintjes                   |
-| Occupation      | Software Engineer and Architect |
-| Phone           | +61 419 222 404                 |
-| Email           | sthysel@gmail.com               |
-| Home Language   | Afrikaans                       |
-| Other Languages | English                         |
-| Citizenship     | Australian                      |
+| Key         | Value                           |
+|-------------|---------------------------------|
+| Name        | Thys Meintjes                   |
+| Occupation  | Software Engineer and Architect |
+| Phone       | +61 419 222 404                 |
+| Email       | sthysel@gmail.com               |
+| Languages   | Afrikaans, English              |
+| Citizenship | Australian                      |
 
-This CV available online https://github.com/sthysel/cv, and may be more
-current than this document.
+This CV is available online on github https://github.com/sthysel/cv, and
+may be more current than this document.
 
 # Overview
 
