@@ -1,13 +1,13 @@
 # Personal Information
 
-| Key         | Value                           |
-|-------------|---------------------------------|
-| Name        | Thys Meintjes                   |
-| Occupation  | Software Engineer and Architect |
-| Phone       | +61 419 222 404                 |
-| Email       | sthysel@gmail.com               |
-| Languages   | Afrikaans, English              |
-| Citizenship | Australian                      |
+|             |                                                                                       |
+|-------------|---------------------------------------------------------------------------------------|
+| Name        | Thys Meintjes                                                                         |
+| Occupation  | Software Engineering and Architecture specialising in data fusion and computer vision |
+| Phone       | +61 419 222 404                                                                       |
+| Email       | sthysel@gmail.com                                                                     |
+| Languages   | English, Afrikaans                                                                    |
+| Citizenship | Australian                                                                            |
 
 This CV is available online on github https://github.com/sthysel/cv, and
 may be more current than this document.
@@ -25,13 +25,13 @@ architect and developer.
 I have worked on numerous sensor data fusion and solutions. I consider
 myself a integration and systems specialist, with strong
 
--   Python,
--   Linux,
--   Machine Learning,
--   Containerisation,
--   IOT,
--   DevOps,
--   MLOps, and
+-   Python
+-   Linux
+-   Machine Learning
+-   Containerisation
+-   IOT
+-   DevOps
+-   MLOps and
 -   Sensor data fusion pipe-line skills.
 
 I have DevOps and MLOps experience using a variety of continuous
