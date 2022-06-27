@@ -29,7 +29,7 @@ October 2006 – July 2007 : GeoAxon – Software Development Manager	CV.md	/^$/
 October 2006 – July 2007 : GeoAxon – Software Development Manager	README.md	/^## October 2006 – July 2007 : GeoAxon – Software Development Manager$/;"	s	chapter:Work Experience
 October 2007 – December 2011 : Thales Defence Systems – Senior Software Engineer	CV.md	/^$/;"	s	chapter:Work Experience
 October 2007 – December 2011 : Thales Defence Systems – Senior Software Engineer	README.md	/^## October 2007 – December 2011 : Thales Defence Systems – Senior Software Engineer$/;"	s	chapter:Work Experience
-Overview	CV.md	/^more current than this document.$/;"	c
+Overview	CV.md	/^(https:\/\/github.com\/sthysel\/cv), and may be more current than this document.$/;"	c
 Overview	README.md	/^# Overview$/;"	c
 Personal Information	CV.md	/^$/;"	c
 Personal Information	README.md	/^# Personal Information$/;"	c
