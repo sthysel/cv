@@ -3,7 +3,7 @@ title: Curriculum Vitae
 author: [Thys Meintjes]
 toc: false
 toc-own-page: true
-date: "2022-04-05"
+date: "2023-03-08"
 fontsize: 12pt
 papersize: a4
 tags:
@@ -13,6 +13,7 @@ tags:
   - Machine Learning
   - AI
   - Data Fusion
+  - IIoT
 ---
 
 
@@ -21,7 +22,7 @@ tags:
 |             |                                                                                       |
 |-------------|---------------------------------------------------------------------------------------|
 | Name        | Thys Meintjes                                                                         |
-| Occupation  | Software Engineering and Architecture specialising in data fusion and computer vision |
+| Occupation  | Software Engineering and Architecture specialising in data fusion, computer vision  and IIoT|
 | Phone       | +61 419 222 404                                                                       |
 | Email       | sthysel@gmail.com                                                                     |
 | Languages   | English, Afrikaans                                                                    |
@@ -33,7 +34,7 @@ This CV is available online on [github](https://github.com/sthysel/cv)
 # Overview
 
 I am a software engineer with 20+ years of software architecture and
-engineering experience. I have worked in the weather aviation, national
+engineering experience. I have worked in the weather, aviation, national
 intelligence, healthcare, defense and mining industries. I have led development
 teams and managed and delivered projects at every level of the software
 development life-cycle: from conceptual design to delivery and support. I have
@@ -41,24 +42,24 @@ worked in Agile teams as scrum master, tech lead, architect and software
 engineer.
 
 I have worked on several sensor data fusion solutions. I consider myself a
-integration and systems specialist, with strong 
+integration and systems specialist, with strong:
 
 * Python
 * Linux
 * Machine Learning
 * Containerisation
-* IOT
+* IIoT
 * DevOps
 * MLOps and
 * Sensor data fusion pipe-line skills.
 
 I have DevOps and MLOps experience using a variety of continuous integration, systems
 provisioning, software configuration and build management systems. These were
-implemented on-premise as well as various cloud platforms particularly AWS. 
+implemented on-premise as well as AWS and Azure.
 
 I have developed cloud native applications and solution stacks making use of AWS
-and OpenStack infrastructure. I've used Ansible and Terraform to define
-infrastructure as code using modern GitOps principles.
+and OpenStack infrastructure. I've used Ansible and Terraform extensively
+implemeting IaC using modern GitOps principles.
 
 I have a degree in Electronic Engineering and a Masters degree in Bio Engineering.
 
@@ -80,14 +81,22 @@ I have a degree in Electronic Engineering and a Masters degree in Bio Engineerin
 
 ## Sept 2016 - Current BHP
 
-I am currently employed at BHP as Principal Software Engineer specialising
-in Computer Vision Machine Learning and MLOps. 
+I am currently employed at BHP as Principal Cloud Engineer specialising in IIoT
+and edge compute delivery.
 
 I have hold various roles at BHP in the last five years, listed below.
 
 https://www.bhp.com
 
-### Principal Computer Vision machine learning
+### BHP Principal cloud engineer
+
+I work in a small team responsible for the architecture and implementation of
+the IIoT Edge cloud platform. This platform is built on top of the Azure IIoT
+Edge platform. My responsibilities include implementing workflows and
+deployments using gitops driven iac. Development of common Python libraries and
+workflow patterns to expand and enhance the platform DX for end users.
+
+### BHP Principal Computer Vision machine learning
 
 I trained computer vision models using Tensorflow and Keras to classify live CCTV video
 streams to react on fault conditions in various applications. I also developed the
@@ -95,15 +104,15 @@ inference and heuristic code around the model allowing the solution to actuate
 the various PLC and warning systems that reacts on the fault conditions. I'm
 currently developing the machine learning operations pipeline managing the process of
 training data capture, versioning, model training and model deployment to
-production, using existing BHP Azure iot-edge infrastructure.
+production, using existing BHP Azure IIoT edge infrastructure.
 
-### Principal Data Engineer, Digital Facory WAIO
+### BHP Principal Data Engineer, Digital Facory WAIO
 
 My primary role is building out AWS infrastructure for a BHP bespoke machine
 learning and forecasting system, focusing on data integration. Infrastructure is
-managed using Terraform tooling and modules.
+managed using Terraform tooling and bespoke modules.
 
-### Principal Software Engineer Innovation Center
+### BHP Principal Software Engineer Innovation Center
 
 My primary roles are software architect, programmer and systems integrator. I
 focused on systems built around machine learning stacks making use of GPU and
@@ -111,7 +120,7 @@ Google's Coral TPU. Solutions are implemented in Python, hosted on Linux,
 containerized and managed using the balena.io platform.
 
 We build a modular computer vision and sensor fusion framework and implemented a
-personnel safety system on top of that. 
+personnel safety system on top of that.
 
 Video and other sensor feeds are fused into a real-time spatial awareness stream
 informing system state which in turns trigger warnings and alerts to machine
@@ -132,7 +141,7 @@ work.
 I worked on number of other ML and computer vision solutions focusing on
 identifying and reporting production and ore quality issues.
 
-### Specialist Engineer production automation systems. 
+### BHP Specialist Engineer production automation systems.
 
 Projects I worked on include the SMART data logger project as well as the Magnet
 telemetry monitoring system.
